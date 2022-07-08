@@ -7,6 +7,12 @@
      <img aling="center" alt="cuei1337" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
      <img aling="center" alt="cuei1337" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
+
+##
+
+<div>
+     <a href="https://instagram.com/cuei1337" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+          
           
           
  
