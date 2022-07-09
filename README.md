@@ -20,9 +20,10 @@ discord: cuei#1337
  <div>
     
        <div align="center">
-            ![Snake animation](https://github.com/Cuei1337/cuei1337/blob/output/github-contribution-grid-snake.svg)
             
-          <div>
+            ![Snake animation](https://github.com/Cuei1337/Cuei1337/blob/output/github-contribution-grid-snake.svg)
+            
+       </div>
           
           
  
