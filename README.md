@@ -19,6 +19,12 @@ discord: cuei#1337
      <a href="https://discord.gg/plug7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  
  <div>
     
+          
+         <div>
+             <img alling="height" ![Snake animation](https://github.com/Cuei1337/cuei1337/dist/github-contribution-grid-snake.svg)
+                  
+                  
+          <div>
      
           
           
