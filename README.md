@@ -1,6 +1,6 @@
 ### 
 <div>
-        <p aling="center" style="border-radius:100%"><img height="auto" width="20%" src="https://cdn.discordapp.com/attachments/990314231956140093/995546866995441736/aecc6efdaa30b7d5eed3a6a00aef0ddc.jpg" ></p>
+  <p aling="center" style="border-radius:100%"><img height="auto" width="20%" src="https://cdn.discordapp.com/attachments/990314231956140093/995546866995441736/aecc6efdaa30b7d5eed3a6a00aef0ddc.jpg" ></p>
 
 
 <div style="display: inline_block"><br> 
