@@ -1,6 +1,6 @@
 ### 
 
- cuei#1337
+ discord: cuei#1337
 
 
 
