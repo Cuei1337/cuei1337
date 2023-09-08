@@ -8,7 +8,7 @@
 </div>                                                                           
 
 <div>
-     <a href="https://instagram.com/23.10.22wijfncdj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+     <a href="https://instagram.com/cuei1337" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
           
    <a href="https://twitter.com/luxandoedevendo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   
